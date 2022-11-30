@@ -1,6 +1,6 @@
 # fandom project
 
-This files contain documentation of all artifacts created to aid on the development of the fandom project.
+These files contain documentation of all artifacts created to aid on the development of the fandom project.
 
 Application link: https://fandom-project.vercel.app/
 
